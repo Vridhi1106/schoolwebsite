@@ -1,0 +1,14 @@
+.my_nav_bar{
+  position: sticky;
+  top: 0;
+  z-index: 99999;
+  text-align-last: center;
+}
+#marqueeStyle{
+    background-color: midnightblue;
+    color: white;
+}
+img{
+    width: 1000px;
+    height: 500px;
+    margin-left: 300px;
