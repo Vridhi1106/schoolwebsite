@@ -11,5 +11,45 @@
 img{
     width: 100%;
     height: 500px;
-    
+}
+.text-style{
+    font-size:33px;
+}
+p{
+    font-size: 25px;
+}
+.style{
+    font-size: 40px;
+}
+#head{
+    font-size: 48px;
+    font-weight: bolder;
+}
+.text-achieve{
+    font-size: 25px;
+}
+#achievements p{
+    font-size: 20px;
+}
+#achievements h5{
+    font-size: 30px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_head{
+    font-size: 25px;                 
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.contact_1 h4{
+    display: inline;
+}
+#contactus{
+    margin-top: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
     
